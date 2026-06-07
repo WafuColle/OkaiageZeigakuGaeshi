@@ -105,7 +105,7 @@ Suuryou
 
 変数初期化（下記代入定数は例示）
 
-TorihikiNichiji = "202606 03235959" ;
+TorihikiNichiji = "20260603235959" ;
 ReceiptNo = "No-99999999" ;
 CustomerID = "C-9syokika9" ;
 ShouhinCode = "S-9syokika9" ;
@@ -114,7 +114,7 @@ Suuryou = 9999999999 ; ※数値型
 
 
 各引数を相対する変数に代入;
-TorihikiNichiji = "202606 03235959" ;
+TorihikiNichiji = "20260603235959" ;
 ReceiptNo = "No-99999999" ;
 CustomerID = "C-9syokika9" ;
 ShouhinCode = "S-9syokika9" ;
